@@ -1,0 +1,3 @@
+Hello, this is a quick test file
+This is the second line of the file
+This is more being appended to text.txt

@@ -1,0 +1,6 @@
+Hello, this is a whoops test file
+
+try:
+    myfile = open('whoops.txt',"r")
+except:
+    print("The file you are looking for is not in this directory")
